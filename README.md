@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cosmic-Drummer
+- 👋 Hi, I’m @Cosmic-Drummer ... Beiginner here to learn and share my experience
 - 👀 I’m interested in music, control systems, electrical / communication engineering, teaching technology and collaborative learning
 - 🌱 I’m currently learning python, linux and cloud
-- 💞️ I’m looking to collaborate on developing code for control system engineering, signal processing and audio engineering applications
+- 💞️ I’m looking forward to collaborate on developing code for control system engineering, signal processing and audio engineering applications. I am also happy to teach technology in these domains
 - 📫 How to reach me ... cosmic101drummer@gmail.com
 
 <!---
